@@ -141,3 +141,11 @@
 
 <img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_2.png" width="900" alt="导入项目" />
 
+
+## 源码获取
+
+免费快速获取源码方式：**点赞+关注**，公众号后台回复`“源码”`二字即可获取源码。
+
+欢迎关注个人公众号：**懒人码农**
+
+<img src="https://img-blog.csdnimg.cn/20200531011333650.png#pic_center?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE1MDQxOTMx,size_16,color_FFFFFF,t_70" width="200" alt="公众号二维码" />
