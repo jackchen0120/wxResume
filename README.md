@@ -135,9 +135,9 @@
 
 新建项目选择小程序项目，选择代码存放的硬盘路径，填入刚刚申请到的小程序的 AppID，给你的项目起一个好听的名字，勾选 "不使用云服务" （注意: 你要选择一个空的目录才可以创建项目），点击新建，你就得到了你的第一个小程序了，点击顶部菜单编译就可以在微信开发者工具中预览你的第一个小程序。
 
-<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_1.jpg" width="200" alt="你的第一个小程序" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_1.png" width="200" alt="你的第一个小程序" />
 
 ## 导入项目
 
-<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_2.jpg" width="200" alt="导入项目" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_2.png" width="200" alt="导入项目" />
 
