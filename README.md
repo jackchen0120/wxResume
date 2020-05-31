@@ -9,8 +9,8 @@
 * 如果感觉还不错的话，老铁们是不是赏个★Star鼓励一哈，后续会发布更多小程序DEMO源码，也期待大家的交流。
 
 # 项目介绍/开发教程
-[https://blog.csdn.net/qq_15041931/article/details/106178226](https://blog.csdn.net/qq_15041931/article/details/106178226)
 
+请移步到博客教程：[https://blog.csdn.net/qq_15041931/article/details/106178226](https://blog.csdn.net/qq_15041931/article/details/106178226)
 
 # 效果截图
 
@@ -41,7 +41,6 @@
 ## 文章详情界面
 
 <img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx9.jpg" width="200" alt="文章详情界面" />
-
 
 
 # 项目架构
@@ -102,7 +101,6 @@
 
 ```
 
-
 # 技术栈
 * 小程序原生框架
 * 小程序原生组件（常用组件）
@@ -124,7 +122,6 @@
 * 页面路由跳转
 * 小程序跳转web-view
 
-
 ## 申请账号
 
 小程序账号注册流程，请移步官方文档，有详细说明。
@@ -138,9 +135,7 @@
 
 新建项目选择小程序项目，选择代码存放的硬盘路径，填入刚刚申请到的小程序的 AppID，给你的项目起一个好听的名字，勾选 "不使用云服务" （注意: 你要选择一个空的目录才可以创建项目），点击新建，你就得到了你的第一个小程序了，点击顶部菜单编译就可以在微信开发者工具中预览你的第一个小程序。
 
-
 <img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_1.jpg" width="200" alt="你的第一个小程序" />
-
 
 ## 导入项目
 
