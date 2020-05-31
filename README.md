@@ -6,7 +6,7 @@
 # 前言
 
 * 体验之前我们先来认识一下小程序，官方定义的微信小程序是一种新的开放能力，开发者可以快速地开发一个小程序。更是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。
-* 如果感觉还不错的话，老铁们是不是赏个★Star鼓励一哈，后续会发布更多小程序DEMO源码，也期待大家的交流。
+* 如果感觉还不错的话，老铁们是不是`赏个★Star`鼓励一哈，后续会发布更多小程序DEMO源码，也期待大家的交流。
 
 # 项目介绍/开发教程
 
@@ -135,9 +135,9 @@
 
 新建项目选择小程序项目，选择代码存放的硬盘路径，填入刚刚申请到的小程序的 AppID，给你的项目起一个好听的名字，勾选 "不使用云服务" （注意: 你要选择一个空的目录才可以创建项目），点击新建，你就得到了你的第一个小程序了，点击顶部菜单编译就可以在微信开发者工具中预览你的第一个小程序。
 
-<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_1.png" width="200" alt="你的第一个小程序" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_1.png" width="900" alt="你的第一个小程序" />
 
 ## 导入项目
 
-<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_2.png" width="200" alt="导入项目" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_2.png" width="900" alt="导入项目" />
 
