@@ -1,6 +1,6 @@
 
 # 扫码体验
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/login_0.png" width="900" alt="登录界面" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wxmini.jpg" width="900" alt="小程序个性简历" />
 
 
 # 前言
@@ -16,31 +16,31 @@
 
 ## 启动页(封面图)
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/login_0.png" width="900" alt="启动页" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx1.jpg" width="900" alt="启动页" />
 
 ## 基本信息界面
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/dataV_1.png" width="900" alt="基本信息界面" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2.jpg" width="900" alt="基本信息界面" />
 
 ## 工作经验界面
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/brand.png" width="900" alt="工作经验界面" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx3.jpg" width="900" alt="工作经验界面" />
 
 ## 专业技能界面
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/brand.png" width="900" alt="专业技能界面" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx4.jpg" width="900" alt="专业技能界面" />
 
 ## 技术博客界面
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/brand.png" width="900" alt="技术博客界面" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx5.jpg" width="900" alt="技术博客界面" />
 
 ## 文章精选界面
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/brand.png" width="900" alt="文章精选界面" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx8.jpg" width="900" alt="文章精选界面" />
 
 ## 文章详情界面
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/brand.png" width="900" alt="文章详情界面" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx9.jpg" width="900" alt="文章详情界面" />
 
 
 
@@ -139,10 +139,10 @@
 新建项目选择小程序项目，选择代码存放的硬盘路径，填入刚刚申请到的小程序的 AppID，给你的项目起一个好听的名字，勾选 "不使用云服务" （注意: 你要选择一个空的目录才可以创建项目），点击新建，你就得到了你的第一个小程序了，点击顶部菜单编译就可以在微信开发者工具中预览你的第一个小程序。
 
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/brand.png" width="900" alt="你的第一个小程序" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_1.jpg" width="900" alt="你的第一个小程序" />
 
 
 ## 导入项目
 
-<img src="https://github.com/jackchen0120/vueDataV/blob/master/public/img/brand.png" width="900" alt="导入项目" />
+<img src="https://github.com/jackchen0120/wxResume/blob/master/images/wx2_2.jpg" width="900" alt="导入项目" />
 
